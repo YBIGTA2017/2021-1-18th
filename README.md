@@ -20,8 +20,8 @@ YBIGTA 18기들의 교육 세션 실습 내용을 모아두는 공간입니다.
 - 박다현 : [https://github.com/wnwjq462/YBIGTA](https://github.com/wnwjq462/YBIGTA)
 - 박선종 : 
 - 송유진 : [https://github.com/Yoojin730/YBIGTA](https://github.com/Yoojin730/YBIGTA)
-- 신혜연 : [https://github.com/sine-x0x/YBIGTA-21WINTER.git](https://github.com/sine-x0x/YBIGTA-21WINTER.git)
-- 심준교 : [https://github.com/Shimjoonkyo/YBIGTA.git](https://github.com/Shimjoonkyo/YBIGTA.git)
+- 신혜연 : [https://github.com/sine-x0x/YBIGTA-21WINTER](https://github.com/sine-x0x/YBIGTA-21WINTER)
+- 심준교 : [https://github.com/Shimjoonkyo/YBIGTA](https://github.com/Shimjoonkyo/YBIGTA)
 - 안범진 : 
 - 오태진 : [https://github.com/ORANZINO/YBIGTA-18th](https://github.com/ORANZINO/YBIGTA-18th)
 - 윤성현 :
